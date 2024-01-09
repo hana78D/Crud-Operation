@@ -1,0 +1,36 @@
+{
+    "employee": [
+      {
+        "name": "Fatemeh Ahmadi",
+        "email": "FAhmadi@gmail.com",
+        "phone": "98899090",
+        "active": true,
+        "id": 1
+      },
+      {
+        "name": "Hassan yazdani",
+        "email": "Yazdanihassan@in.com",
+        "phone": "98899090",
+        "active": true,
+        "id": 2
+      },
+      {
+        "id": 3,
+        "name": "Shima Mohammadi",
+        "email": "shima1515@in.com",
+        "phone": "908908767"
+      },
+      {
+        "id": 4,
+        "name": "Ali Akbari",
+        "email": "AliAkbari@in.com",
+        "phone": "908908767"
+      },
+      {
+        "id": 5,
+        "name": "Mohammad Gholami",
+        "email": "Gholami@in.com",
+        "phone": "908908767"
+      }
+    ]
+  }
